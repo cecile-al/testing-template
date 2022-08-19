@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Accueil
 layout: home
 ---
 
@@ -12,4 +12,3 @@ This is an offically-supported, *bare-minimum* template to deploy Just the Docs 
 Other than that, you're free to customize this template however you'd like! [Browse our documentation](https://just-the-docs.github.io/just-the-docs/) to learn more about how to use the theme!
 
 To get started, just click ["use this template"](https://github.com/just-the-docs/just-the-docs-template/generate)!
-
