@@ -11,7 +11,7 @@ $blue-light: #f0f6fe;
 $grey: #e1e1e6;
 
 $body-background-color: $white;
-$sidebar-color: $white;
+$sidebar-color: $blue-dark;
 $body-text-color: $black-memo;
 $body-heading-color: $blue-memo;
 $link-color: $blue-memo;
@@ -20,7 +20,7 @@ $feedback-color: lighten($sidebar-color, 3%);
 $search-background-color: $white;
 $search-result-preview-color: $blue-memo;
 $nav-child-link-color: $grey;
-$base-button-color: #$grey;
+$base-button-color: $blue-memo;
 
 
 // Grid system
