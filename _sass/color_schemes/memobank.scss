@@ -11,12 +11,12 @@ $blue-light: #f0f6fe;
 $grey: #e1e1e6;
 $grey-light: #f9f9fa;
 
-$sidebar-color: $grey-light;
+$sidebar-color: $blue-light;
 $body-text-color: $black-memo;
 $body-heading-color: $blue-memo;
 $link-color: $blue-memo;
 $btn-primary-color: $blue-memo;
-$feedback-color: lighten($sidebar-color, 3%);
+$feedback-color: darken($sidebar-color, 3%);
 $search-result-preview-color: $blue-memo;
 $nav-child-link-color: $grey;
 $base-button-color: $blue-memo;
