@@ -33,9 +33,9 @@ $border-color: $grey;
 // Media queries in pixels
 
 $media-queries: (
-  xs: 160px,
+  xs: 320px,
   sm: 500px,
   md: $content-width,
-  lg: $content-width + $nav-width,
+  lg: $content-width,
   xl: 1400px,
 ) !default;
