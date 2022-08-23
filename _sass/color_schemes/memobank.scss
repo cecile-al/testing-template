@@ -9,9 +9,10 @@ $blue-memo: #0B5DD0;
 $blue-dark: #0d4189;
 $blue-light: #ebf3ff;
 $grey: #e1e1e6;
+
 $sidebar-color: $blue-dark;
 $body-text-color: $black-memo;
-$body-heading-color: $white;
+$body-heading-color: $blue-memo;
 $link-color: $blue-memo;
 $btn-primary-color: $blue-memo;
 $feedback-color: lighten($sidebar-color, 3%);
@@ -21,7 +22,7 @@ $search-background-color: $white;
 
 // Grid system
 
-$header-height: 100px;
+$header-height: 80px;
 
 // Borders
 
